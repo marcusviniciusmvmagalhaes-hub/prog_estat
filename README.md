@@ -1,12 +1,5 @@
 # prog\_estat
 
-<<<<<<< HEAD
-primeiros contatos com o github em aula
+Repositório utilizado para a aula de programação estatística do professor Tiago Ramos
 
-alterado
-
-=======
-primeiros contatos com o github em aula no dia 28/09/2026
-
-quero que vocês alterem qualquer coisa
-
+Matéria lecionada em 2026/2 para a turma de Estatística e Ciência de Dados
